@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\bin\Debug\Picture view atividade ava.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\bin\Debug\Picture view atividade ava.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\bin\Debug\Picture view atividade ava.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture_view_atividade_ava.Form1.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture_view_atividade_ava.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\4° Bimestre\Picture view atividade ava\Picture view atividade ava\obj\Debug\Picture view atividade ava.pdb
